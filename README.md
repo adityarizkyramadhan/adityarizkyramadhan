@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hello, Assalamualaikum, Shalom, Om Swastyastu, Namo Budaya, Salam Kebajikan.👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying informatics at Computer Science Faculty, Brawijaya Univercity
 - 🌱 I’m currently learning Java & Go
