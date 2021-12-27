@@ -6,7 +6,7 @@
 - ⚡ Fun fact: i'm not fun xixixixi
 <div align = "center> 
   <h5>Instagram saya : <\h6>
-  <a href="https://www.Instagram.com/adityaariizkyy">Instagram</a>
+  <img src="https://www.Instagram.com/adityaariizkyy" alt "IG"/>
 </div>
 
 <h2>My github Stats and Most Used Languages</h2>
