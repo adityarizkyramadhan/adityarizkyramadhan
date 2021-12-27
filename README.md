@@ -5,10 +5,7 @@
 - 🌱 I’m currently learning Java & Go
 - ⚡ Fun fact: i'm not fun xixixixi
 
-<div align = "left"> 
-  <h5>Instagram saya : </h5>
-  <a src="http://instagram.com/adityaariizkyy">Aditya Rizky</a>
-</div>
+
 
 <h2>My github Stats and Most Used Languages</h2>
 
