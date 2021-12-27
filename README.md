@@ -4,13 +4,14 @@
 - 🔭 I’m currently studying informatics at Computer Science Faculty, Brawijaya Univercity
 - 🌱 I’m currently learning Java & Go
 - ⚡ Fun fact: i'm not fun xixixixi
-
+<div align = "center> 
+  <h5>Instagram saya : <\h6>
+  <a href="https://www.Instagram.com/adityaariizkyy">Instagram</a>
+</div>
 
 <h2>My github Stats and Most Used Languages</h2>
 
-<div>
-
-  
+<div>  
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarizkyramadhan" alt="GitHub Stats" /> <br/><br/>
