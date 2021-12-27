@@ -4,7 +4,8 @@
 - 🔭 I’m currently studying informatics at Computer Science Faculty, Brawijaya Univercity
 - 🌱 I’m currently learning Java & Go
 - ⚡ Fun fact: i'm not fun xixixixi
-<div align = "center> 
+
+<div align = "center"> 
   <h5>Instagram saya : <\h6>
   <img src="https://www.Instagram.com/adityaariizkyy" alt "IG"/>
 </div>
