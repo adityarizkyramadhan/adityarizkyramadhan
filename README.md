@@ -6,7 +6,7 @@
 - ⚡ Fun fact: i'm not fun xixixixi
 
 <div align = "left"> 
-  <h5>Instagram saya : <\h6>
+  <h5>Instagram saya : </h5>
   <a src="http://instagram.com/adityaariizkyy">Aditya Rizky</a>
 </div>
 
