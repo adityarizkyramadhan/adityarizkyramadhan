@@ -15,6 +15,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarizkyramadhan" alt="GitHub Stats" /> <br/><br/>
   <b><em>Most Used Languages:</em></b> <br/>    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarizkyramadhan&layout=compact"/> <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=adityarizkyramadhan&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true%22%20width=%22400%22"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarizkyramadhan&layout=compact&hide=TSQL&theme=chartreuse-dark"/>
 </div>
 
