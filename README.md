@@ -14,6 +14,6 @@
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityarizkyramadhan" alt="GitHub Stats" /> <br/><br/>
   <b><em>Most Used Languages:</em></b> <br/>    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarizkyramadhan&layout=compact"/>
+    <img src="https://github.com/adityarizkyramadhan/ghstat/blob/master/generated/languages.svg"/>
 </div>
 
