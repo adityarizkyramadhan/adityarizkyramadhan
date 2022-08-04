@@ -17,6 +17,6 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=adityarizkyramadhan&bg_color=ffffff&color=000000&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Github Activities"/><br/><br/>
     <img src="https://github-readme-stats.vercel.app/api?username=adityarizkyramadhan"/></br>
   <b><em>Most Used Languages:</em></b> <br/>    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityarizkyramadhan&layout=compact"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityarizkyramadhan&layout=compact&langs_count=8&theme=light"/>
 </div>
 
