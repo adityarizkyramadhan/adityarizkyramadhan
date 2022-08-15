@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying informatics at Computer Science Faculty, Brawijaya Univercity
 - 🌱 I’m currently learning Java & Go
-- ⚡ Fun fact: i'm not fun xixixixi
+- ⚡ Fun fact: i'm not fun xixixixi <br/>
 <img src="https://komarev.com/ghpvc/?username=adityarizkyramadhan&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views" /> <br/><br/>
 
 
