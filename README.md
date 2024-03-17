@@ -2,8 +2,10 @@
 
 
 # 💫 About Me:
-🔭Currently I am studying at the Faculty of Computer Science, Brawijaya University with a study program in Informatics Engineering,<br>🌱 I’m currently learning Java & Go<br>⚡ Fun fact: i'm not fun xixixixi
+🔭Currently I am studying at the Faculty of Computer Science, Brawijaya Universty with a study program in Informatics Engineering,<br>🌱 I’m currently learning Java & Go<br>⚡ Fun fact: i'm not fun xixixixi
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityaariizkyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaariizkyy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@internalservererror.500) 
