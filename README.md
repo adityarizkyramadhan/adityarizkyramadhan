@@ -5,6 +5,11 @@
 🔭Currently I am studying at the Faculty of Computer Science, Brawijaya Universty with a study program in Informatics Engineering,<br>🌱 I’m currently learning Java & Go<br>⚡ Fun fact: i'm not fun xixixixi
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials:
