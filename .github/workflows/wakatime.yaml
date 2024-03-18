@@ -1,21 +1,17 @@
 name: Waka Readme
 
 on:
-  # Trigger the workflow manually or on a schedule
   workflow_dispatch:
   schedule:
-    # runs every 4 hours
     - cron: "0 */4 * * *"
-  # Trigger the workflow on push events
   push:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2  # This checks out your repository so the workflow can access your files
-      - uses: athul/waka-readme@master # this action name
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
