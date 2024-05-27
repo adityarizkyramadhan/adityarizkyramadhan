@@ -16,8 +16,6 @@ Markdown     17 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@018e4ca0-f008-400e-b508-7dd7a2c2fda9/1ece550d-4985-4075-92d1-747f249b4c90.svg"></embed></figure>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityaariizkyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaariizkyy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@internalservererror.500) 
 
@@ -29,6 +27,6 @@ Markdown     17 mins         ▒░░░░░░░░░░░░░░░░
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityarizkyramadhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarizkyramadhan&langs_count=10&layout=compact)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityarizkyramadhan&theme=dark&utcOffset=7)
-
+![]("https://wakatime.com/share/@018e4ca0-f008-400e-b508-7dd7a2c2fda9/1ece550d-4985-4075-92d1-747f249b4c90.svg")
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=adityarizkyramadhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
