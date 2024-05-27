@@ -16,6 +16,8 @@ Markdown     17 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<figure><embed src="https://wakatime.com/share/@018e4ca0-f008-400e-b508-7dd7a2c2fda9/1ece550d-4985-4075-92d1-747f249b4c90.svg"></embed></figure>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityaariizkyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaariizkyy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@internalservererror.500) 
 
