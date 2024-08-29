@@ -7,9 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 8 mins    ████████████████████████░   95.49 %
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Docker       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
