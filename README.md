@@ -1,16 +1,50 @@
 ### Hello, Assalamualaikum, Shalom, Om Swastyastu, Namo Budaya, Salam Kebajikan.👋
 
 
-# 💫 About Me:
-🔭Currently I am studying at the Faculty of Computer Science, Brawijaya Universty with a study program in Informatics Engineering,<br>🌱 I’m currently learning Java & Go<br>⚡ Fun fact: i'm not fun xixixixi
+## 💫 About Me:
 
-<!--START_SECTION:waka-->
+🔭 I graduated from the Faculty of Computer Science, Brawijaya University, with a degree in Informatics Engineering on December 23, 2024.
 
-```txt
-No activity tracked
-```
+🌱 I’m currently working as a Backend Engineer
 
-<!--END_SECTION:waka-->
+⚡ Fun fact: I'm not fun xixixix
+
+💻 I use programming languages such as JavaScript, Go, Rust, Java, and Python.
+
+## 📬 Contact
+- Email: adityarizky1020@gmail.com
+- Phone: (+62) 857-0438-4348
+- LinkedIn: [Aditya Rizky Ramadhan](https://www.linkedin.com/in/adityaariizkyy)
+- GitHub: [adityarizkyramadhan](https://github.com/adityarizkyramadhan)
+
+## 🎓 Education
+- **Bachelor of Computer Science - Informatics Engineering**  
+  Universitas Brawijaya | 2021 - 2024  
+  - Focused on Software Engineering, Computer Networks, and Machine Learning.
+  - Developed practical skills in software development, network architecture, and data-driven decision-making processes.
+
+## 💼 Skills
+- **Programming Languages:** JavaScript, Go, Python, Rust, Java
+- **Frameworks & Technologies:** React, Node.js, Docker
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, Docker, AWS
+
+## 💼 Experience
+
+### Backend Engineer
+**Synapsis** · Contract  <br>
+**December 2024 - Present** <br>
+Yogyakarta, Indonesia · On-site  <br>
+
+### Intermediate Backend Developer
+**Vobis** · Full-time  <br>
+**August 2024 - Present**  <br> 
+Semarang, Central Java, Indonesia · Remote<br>  
+
+### Backend Junior Programmer
+**Vobis** · Full-time <br>  
+**October 2023 - August 2024** · 11 months <br>
+Semarang, Central Java, Indonesia · Remote<br>  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityaariizkyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaariizkyy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@internalservererror.500) 
