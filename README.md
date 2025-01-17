@@ -13,7 +13,6 @@
 
 ## 📬 Contact
 - Email: adityarizky1020@gmail.com
-- Phone: (+62) 857-0438-4348
 - LinkedIn: [Aditya Rizky Ramadhan](https://www.linkedin.com/in/adityaariizkyy)
 - GitHub: [adityarizkyramadhan](https://github.com/adityarizkyramadhan)
 
