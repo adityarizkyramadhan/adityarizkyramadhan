@@ -36,14 +36,14 @@
 Yogyakarta, Indonesia · On-site  <br>
 
 ### Intermediate Backend Developer
-**Vobis** · Full-time  <br>
-**August 2024 - Present**  <br> 
+**Vobis** · Full-time <br>
+**August 2024 - Present**  <br>
 Semarang, Central Java, Indonesia · Remote<br>  
 
 ### Backend Junior Programmer
-**Vobis** · Full-time <br>  
-**October 2023 - August 2024** · 11 months <br>
-Semarang, Central Java, Indonesia · Remote<br>  
+**Vobis** · Full-time <br>
+**October 2023 - August 2024** · 11 months<br>
+Semarang, Central Java, Indonesia · Remote<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityaariizkyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaariizkyy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@internalservererror.500) 
