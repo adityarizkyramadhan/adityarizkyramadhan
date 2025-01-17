@@ -9,8 +9,6 @@
 
 ⚡ Fun fact: I'm not fun xixixix
 
-💻 I use programming languages such as JavaScript, Go, Rust, Java, and Python.
-
 ## 📬 Contact
 - Email: adityarizky1020@gmail.com
 - LinkedIn: [Aditya Rizky Ramadhan](https://www.linkedin.com/in/adityaariizkyy)
@@ -22,7 +20,7 @@
   - Focused on Software Engineering, Computer Networks, and Machine Learning.
   - Developed practical skills in software development, network architecture, and data-driven decision-making processes.
 
-## 💼 Skills
+## 💻 Skills
 - **Programming Languages:** JavaScript, Go, Python, Rust, Java
 - **Frameworks & Technologies:** React, Node.js, Docker
 - **Databases:** MySQL, MongoDB
