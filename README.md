@@ -30,8 +30,9 @@
 
 ### Backend Engineer
 **Synapsis** · Contract  <br>
-**December 2024 - Present** <br>
+**December 2024 - August 2025** <br>
 Yogyakarta, Indonesia · On-site  <br>
+Jakarta, Indonesia · On-site  <br>
 
 ### Intermediate Backend Developer
 **Vobis** · Full-time <br>
