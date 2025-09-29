@@ -198,7 +198,7 @@ Mentoring students in backend engineering and AI development practices.
 ### 🔗 URL Shortener Service
 **Free link shortener without ads**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adityarizkyramadhan&repo=shortener&theme=tokyonight&hide_border=true)](https://github.com/adityarizkyramadhan/shortener)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clips-id&repo=.github&theme=tokyonight&hide_border=true)](https://github.com/clips-id)
 
 **Technologies Used:**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -224,12 +224,80 @@ Mentoring students in backend engineering and AI development practices.
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityarizkyramadhan)
 
 ### 🌐 Social Media
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityarizkyramadhan&show_icons=true&locale=en)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityarizkyramadhan&theme=dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityarizkyramadhan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityarizkyramadhan&langs_count=10&layout=compact)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityarizkyramadhan&theme=dark&utcOffset=7)
-![]("https://wakatime.com/share/@018e4ca0-f008-400e-b508-7dd7a2c2fda9/1ece550d-4985-4075-92d1-747f249b4c90.svg")
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityarizkyramadhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/adityaariizkyy)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@internalservererror.500)
+
+</div>
+
+---
+
+## 🎯 Current Focus & Goals
+
+<div align="center">
+
+### 🔥 What I'm Working On
+
+- 🏦 **Banking IT Systems** at PT Bank Negara Indonesia (BNI)
+- 🚀 **Microservices Architecture** with Go and Docker
+- ☁️ **Cloud-Native Applications** on AWS
+- 📚 **Continuous Learning** in DevOps and System Design
+
+### 🎯 2024 Goals
+- ✅ Graduate with Honors (3.78 GPA) ✨
+- ✅ Join Major Banking Institution
+- 🔄 Master Kubernetes & Container Orchestration
+- 🔄 Contribute to Open Source Projects
+- 🔄 Build Scalable SaaS Applications
+
+</div>
+
+---
+
+## 📈 GitHub Activity & Insights
+
+<div align="center">
+
+### 🔥 Streak & Contributions
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityarizkyramadhan&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true)
+
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 🏆 Achievement Highlights
+- 🎓 **Computer Science Graduate** (3.78 GPA)
+- 💼 **2+ Years** Backend Development Experience
+- 🏢 **7 Companies** Professional Experience
+- 🚀 **Microservices Expert** in Go & PHP
+- ☁️ **Cloud Enthusiast** (AWS, Docker, K8s)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Fun Facts About Me
+
+- 🌍 **Location**: Jakarta, Indonesia
+- 🎓 **Alma Mater**: Universitas Brawijaya
+- 💻 **First Language**: Go (fell in love with its simplicity)
+- 🎯 **Career Goal**: Lead Backend Architect
+- ☕ **Fuel**: Coffee and curiosity
+- 🎮 **When Not Coding**: Exploring new technologies
+
+---
+
+### 📊 Profile Views & Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=adityarizkyramadhan&color=brightgreen&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/adityarizkyramadhan?style=for-the-badge&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/adityarizkyramadhan?style=for-the-badge&color=yellow)
+
+---
+
+*"Building scalable systems, one microservice at a time"* ⚡
+
+**⭐ Star my repositories if you find them helpful!**
+
+</div>
